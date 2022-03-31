@@ -1,0 +1,8 @@
+Library
+obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+.vscode/settings.json
+.vs/SpellSystem/v15/.suo
+.vs/SpellSystem/v15/sqlite3/storage.ide
+ProjectSettings
+*.meta
